@@ -1,0 +1,11 @@
+{
+  "author": {
+        "firstName": "Nina",
+        "lastName": "Siessegger"
+    },
+    "title": "Git - kurz & gut",
+    "publicationYear": 2024,
+    "hardcover": false,
+    "keywords": ["Git", "Versionskontrolle"],
+    "isbn": 9783960092247
+}
