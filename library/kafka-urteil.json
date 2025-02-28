@@ -3,9 +3,11 @@
         "firstName": "Franz",
         "lastName": "Kafka"
     },
-    "title": "Das Urteil",
-    "publicationYear": 1913,
-    "hardcover": true,
-    "keywords": ["Vater", "Sohn", "Konflikt"],
-    "isbn": null,
+    {
+        "title": "Das Urteil",
+        "publicationYear": 1913,
+        "hardcover": true,
+        "keywords": ["Vater", "Sohn", "Konflikt"],
+        "isbn": null
+    }
 }
